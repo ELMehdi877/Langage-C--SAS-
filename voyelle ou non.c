@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//detecter si le caractere est un voyelle ou non
 int main() {
     char x ;
     printf("donner un caractere : ");
